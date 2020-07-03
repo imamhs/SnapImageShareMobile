@@ -1,3 +1,6 @@
+# Copyright (c) 2018, Md Imam Hossain (emamhd at gmail dot com)
+# see LICENSE.txt for details
+
 import kivy
 kivy.require('1.10.0')
 
